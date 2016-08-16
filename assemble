@@ -1,3 +1,4 @@
 #!/bin/bash 
 
+mkdir /tmp/src
 touch /tmp/src/DUMMY.txt
